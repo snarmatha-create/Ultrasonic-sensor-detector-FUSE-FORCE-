@@ -25,7 +25,7 @@ The project works on the principle of **Sonar (Sound Navigation and Ranging)**. 
 ## Project Image
 Below is the physical circuit assembly of the system:
 
-![Arduino Distance Sensor Project](image_7_5YN5.png)
+![Arduino Distance Sensor Project](Ultrasonic%20sensor.jpg)
 
 ## Notes for Improvement
 * **Power Supply:** Use an external power source for the servo motor instead of pulling power directly from the Arduino board to prevent sudden system resets.
